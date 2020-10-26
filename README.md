@@ -16,4 +16,4 @@ Résumé: Coder un classifieur et sauver Poudlard !
                   
 *logreg_predict.py* : programme qui tente de prédire les maisons d'élèves dont on possède les notes, grâce au fichier weights.csv créé au préalable.
 
-Plus d'info dans fr.subject.pdf
+Plus d'infos dans fr.subject.pdf
